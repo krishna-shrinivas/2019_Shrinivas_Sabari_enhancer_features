@@ -1,0 +1,18 @@
+%% This input file stores all the required input formation of
+%   the various monomer types, including charge, mass, and diameter
+%type,mass,diameter,charge,is_active_DNA
+A,1.0,1.0,0,1
+B,0.5,0.75,0,0
+C,0.5,0.75,0,0
+D,0.1,0.5,0,0
+E,1.0,1.0,0,0
+G,1.0,1.0,0,0
+AW,1.0,3.33e-1,0,0
+ABS,1.0,2.5e-1,0,0
+ACS,1.0,2.5e-1,0,0
+FBS,1.0,2.5e-1,0,0
+FCS,1.0,2.5e-1,0,0
+BDNA,1.0,2.5e-1,0,0
+CDNA,1.0,2.5e-1,0,0
+GS,1.0,2.5e-1,0,0
+%F,1.0,1.0,0,1
